@@ -4,13 +4,13 @@
 
 ---
 
-Softair
-
-
 ## Features
 
 - PVP MAP
 - Location : 2037.43,2823.62,49.39 
 - Showcase : [Click Here](https://www.youtube.com/watch?v=nlTtM8jrfqQ)
 
+## DMCA Protection Certificate
+![image](https://cdn.discordapp.com/attachments/1045063739738705940/1045064175724011681/image.png)
 
+##### Copyright © 2022 Malibú Tech. All rights reserved.
